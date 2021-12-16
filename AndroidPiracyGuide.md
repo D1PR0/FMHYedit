@@ -971,3 +971,7 @@ RSS Player*
 * [Manga Max](https://apps.apple.com/us/app/apple-store/id1558957618) - *Manga Reader*
 * [Manga Bird](https://apps.apple.com/us/app/manga-bird-best-manga-reader/id834760417) - *Manga Reader*
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - *Borrow Digital Library Books*
+
+# ► iOS Jailbreaking
+
+* [Checkra1n](https://checkra.in/) - *Jailbreak iPhone 5s to X (A7 to A11(x)) iOS 12.3 to 14.8.1
