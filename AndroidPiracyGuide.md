@@ -681,7 +681,9 @@ RSS Player*
 * [BlobSaver](https://github.com/airsquared/blobsaver) - *GUI for Saving SHSH Blobs*
 * [TSSChecker](https://github.com/tihmstar/tsschecker) - *Check TSS Signing Status*
 * [FutureRestore](https://github.com/tihmstar/futurerestore) - *Restore to Unsigned Firmware / [GUI](https://github.com/CoocooFroggy/FutureRestore-GUI/)*
-* [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app), [Saily](https://github.com/SailyTeam/Saily) or [Zebra](https://getzbra.com/) - *APT Package Manager / [Website](https://getsileo.app/)*
+* [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app) *APT Package Manager / [Website](https://getsileo.app/)*
+* [Saily](https://github.com/SailyTeam/Saily) *APT Package Manager / [Website](https://sailyteam.github.io)*
+* [Zebra](https://getzbra.com/) - *APT Package Manager / [Website](https://getzbra.com/)*
 * [Icy](https://github.com/ArtikusHG/IcyInstaller3) - *DPKG Installer*
 
 ***
